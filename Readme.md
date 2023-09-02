@@ -85,7 +85,7 @@ The Gesture-Controlled Video Player is a fun and interactive project that turns 
 - `video_player.py:` Manages video playback using OMXPlayer.
 - `ui.py:` Implements the graphical user interface (GUI) with PySimpleGUI.
 - `voice_commands.py:` Sets up voice recognition for controlling the video player.
-- `video.mp4`: Sample video file (replace with your own).
+- `video1.mp4`: Sample video file (replace with your own).
 
 ## Customization and Expansion
 
